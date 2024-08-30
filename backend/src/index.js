@@ -1,4 +1,4 @@
-// index.js
+// index.js by Kenli Shaw
 const express = require('express');
 const app = express();
 const port = 3000;
